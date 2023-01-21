@@ -2,7 +2,7 @@
 
 
 
-▪️ I have 1.8 (6 month internship) years of progressive experience in software industry in developing and maintaining the Web based Applications and micro-services.
+▪️ I have 2.8 years of progressive experience in software industry in developing and maintaining the Web based Applications and micro-services.
 
 ▪️ I am a Backend Software Engineer (Java/node.js), post-graduated in MCA from Department of Computer Science, University of Delhi and graduated in Bsc (H) Computer Science from Hansraj College, University of Delhi with first class division.
 
