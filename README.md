@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
+▪️ 20+ Freelancing Projects done (Mobile APP development, webs devleopment, UI/UX, Video Editing 
 
-▪️ I have 2.8 years of progressive experience in software industry in developing and maintaining the Web based Applications and micro-services.
+▪️ I have 3.1 years of progressive experience in software industry in developing and maintaining the Web based Applications and micro-services.
 
 ▪️ I am a Backend Software Engineer (Java/node.js), post-graduated in MCA from Department of Computer Science, University of Delhi and graduated in Bsc (H) Computer Science from Hansraj College, University of Delhi with first class division.
 
