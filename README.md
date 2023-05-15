@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-▪️ 20+ Freelancing Projects done (Mobile APP development, web devleopment, UI/UX, Video Editing )
+▪️ 20+ Projects done (Mobile APP development, web devleopment, UI/UX, Video Editing )
 
 ▪️ I have 3.1 years of progressive experience in software industry in developing and maintaining the Web based Applications and micro-services.
 
